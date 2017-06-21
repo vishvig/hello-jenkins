@@ -1,2 +1,1 @@
-if _name_ == "_main_":
-  print "Ommm"
+print "Ommm"
