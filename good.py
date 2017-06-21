@@ -1,1 +1,1 @@
-print "Om Namah Shivaya"
+print "Om Namah Shivaya!"
