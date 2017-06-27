@@ -1,1 +1,1 @@
-print "Qualcomm project success"
+print "Qualcomm project"
